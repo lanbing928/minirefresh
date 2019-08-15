@@ -17,9 +17,8 @@
 [Docs in English](https://minirefresh.github.io/minirefresh-doc-en/)
 
 ### [http://www.minirefresh.com](http://www.minirefresh.com)
-
-## Notice
 http://www.itxst.com/minirefresh/yvbzayun.html
+## Notice
 __喜欢，你就给一个star!__
 
 ## 特点
